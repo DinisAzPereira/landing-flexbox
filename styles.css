@@ -60,7 +60,44 @@ body {
 
 
 -- second section
+.secondSection {
 
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    align-items: center;
+}
+
+.fourRandomThings {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    width: 100%;
+    margin-bottom: 90px;
+
+}
+
+.square {
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+    border: 5px solid #3882f6;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box p {
+    display: flex;
+    align-items: center;
+    width: 180px;
+
+}
 
 -- SEPARACAO -- 
 
