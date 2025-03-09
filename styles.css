@@ -66,6 +66,8 @@ body {
     flex-direction: column;
     background-color: #1F2937;
     align-items: center;
+    max-width: 1180px;
+
 }
 
 .fourRandomThings {
@@ -74,6 +76,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 80px;
+    
     width: 100%;
     margin-bottom: 90px;
 
@@ -97,6 +100,46 @@ body {
     align-items: center;
     width: 180px;
 
+}
+
+-- third section
+
+.thirdSection {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1180px;
+
+}
+
+.quoteContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #E5E7EB;
+
+    width: 100%;
+}
+
+.inspQuote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 60%;
+    padding: 15px;
+    font-size: 36px;
+    font-style: light italic;
+    margin-top: 50px;
+    margin-bottom:50px ;
+}
+
+.GodThunder {
+    display: flex;
+    font-size: 22px;
+    justify-content: flex-end;
 }
 
 -- SEPARACAO -- 
