@@ -102,18 +102,10 @@ body {
 
 }
 
--- third section
+
+
 
 .thirdSection {
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 1180px;
-
-}
-
-.quoteContainer {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -132,14 +124,58 @@ body {
     padding: 15px;
     font-size: 36px;
     font-style: light italic;
-    margin-top: 50px;
-    margin-bottom:50px ;
+    margin-top: 50px ;
+    margin-bottom: 50px ;
 }
 
 .GodThunder {
     display: flex;
     font-size: 22px;
     justify-content: flex-end;
+}
+
+
+.fourthSection {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    width: 100%;
+    margin-top: 50px ;
+    margin-bottom: 50px ;
+
+}
+
+.fourthSectionContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+   width: 1180px;
+    border-radius: 10PX;
+    margin: 0;
+    padding: 40px;
+    gap: 180px;
+
+}
+
+
+.text {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+
+}
+.mainText{
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonBem {
+display: flex;
+align-items: center;
+max-width: 50%;
 }
 
 -- SEPARACAO -- 
@@ -203,3 +239,6 @@ a {
     padding: 30px;
 }
 
+.callToAction {
+    margin: 0;
+}
