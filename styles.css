@@ -7,6 +7,12 @@ body {
 
 }
 
+.mainText{
+    display: flex;
+    flex-direction: column;
+}
+
+
 .firstSection {
 
     display: flex;
@@ -113,7 +119,6 @@ body {
     padding: 50px;
     background-color: #E5E7EB;
 
-    width: 100%;
 }
 
 .inspQuote {
@@ -140,7 +145,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;    width: 100%;
+    align-items: center;    
     margin-top: 50px ;
     margin-bottom: 50px ;
 
@@ -167,16 +172,22 @@ body {
     max-width: 50%;
 
 }
-.mainText{
-    display: flex;
-    flex-direction: column;
-}
 
 .buttonBem {
 display: flex;
 align-items: center;
 max-width: 50%;
 }
+
+.footer {
+    height: 72px;
+    background: #1F2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;
+  }
 
 -- SEPARACAO -- 
 
