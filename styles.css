@@ -135,7 +135,7 @@ body {
 
 .GodThunder {
     display: flex;
-    font-size: 22px;
+    font-size: 27px;
     justify-content: flex-end;
 }
 
@@ -146,8 +146,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;    
-    margin-top: 50px ;
-    margin-bottom: 50px ;
+    margin-top: 70px ;
+    margin-bottom: 70px ;
 
 }
 
@@ -252,4 +252,7 @@ a {
 
 .callToAction {
     margin: 0;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
 }
