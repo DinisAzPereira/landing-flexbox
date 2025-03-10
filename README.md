@@ -8,3 +8,6 @@ Compreensão e prática do modelo de layout Flexbox.
 Melhoria nas habilidades de CSS e design de interfaces.
 
 
+[Imagem do website cujo o objetivo era replicar no projeto](websiteImage/01.png)
+
+
