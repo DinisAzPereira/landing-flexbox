@@ -1,13 +1,10 @@
-Projeto Odin: Website Responsivo com Flexbox
+Odin Project: Responsive Website with Flexbox
 
-Objetivo
-Este projeto teve como objetivo aprender e aplicar os conceitos de Flexbox para construir um website responsivo. O layout foi inspirado na imagem fornecida no link, focando em garantir uma estrutura flexível e moderna para o site, utilizando práticas recomendadas de CSS.
+Objective
+This project aimed to learn and apply Flexbox concepts to build a responsive website. The layout was inspired by the image provided in the link, focusing on ensuring a flexible and modern structure for the site using best CSS practices.
 
-Aprendizado
-Compreensão e prática do modelo de layout Flexbox.
-Melhoria nas habilidades de CSS e design de interfaces.
-
-Em baixo tem a foto do website que tentei replicar:
+Learning
+Gained understanding and practical experience with the Flexbox layout model. Improved CSS skills and interface design.
 ![Imagem do website cujo o objetivo era replicar no projeto](websiteImage/01.png)
 
 
